@@ -50,6 +50,7 @@ android {
 }
 
 dependencies {
+    implementation("com.android.volley:volley:1.2.1")
     implementation("androidx.navigation:navigation-compose:2.7.5")
     implementation("androidx.compose.material3:material3:1.1.1")
     implementation("androidx.core:core-ktx:1.9.0")
